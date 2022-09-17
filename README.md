@@ -4,4 +4,5 @@ This repository showcases my understanding of various languages through notes an
 
 
 ## Notes
-- [C](./C/README.md)
+- [C](./C/NOTES.md)
+- [Rust](./Rust/NOTES.md)

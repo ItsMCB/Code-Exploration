@@ -24,6 +24,10 @@ int main() {
     // Did you know that my favorite number is 100?
     printf("Did you know that my favorite number is %d?\n",favorite_number);
 
+    unsigned int big_number = 4294967295L;
+    printf("An unsigned integer can have a maxiumum value of %u!\n", big_number);
+
+
     
     
     // Return success code
